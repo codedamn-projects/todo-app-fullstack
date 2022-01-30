@@ -51,7 +51,7 @@ To verify the user credentials on Sign In, taking the parameters as email and th
 To register a new user and add the document to the database
 
 
-### GET `api/todos`
+### GET `/api/todos`
 
 This should return all the todos for the logged in user.
 
