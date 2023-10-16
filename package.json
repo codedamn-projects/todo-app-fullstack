@@ -9,6 +9,7 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"@types/better-sqlite3": "^7.6.5",
 		"better-sqlite3": "^9.0.0",
 		"kysely": "^0.26.3",
 		"next": "13.5.5",
